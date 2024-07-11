@@ -1,0 +1,22 @@
+print("IIIII     M   M      9999    EEEEE     RRRR     IIIII     U    U      SSS ")
+print("  I       MM MM     9     9  E         R   R      I       U    U     S   S")
+print("  I       MM MM     9     9  E         R   R      I       U    U     S    ")
+print("  I       M M M     9 9 9 9  EEE       RRRR       I       U    U      SSS ")
+print("  I       M   M          9   E         R R        I       U    U         S")
+print("  I       M   M          9   E         R   R      I       U    U     S   S")
+print("IIIII     M   M      9999    EEEEE     R    R   IIIII      UUU        SSS ")
+print("___________________________________________________________________________")
+
+
+
+
+Output:
+
+IIIII     M   M      9999    EEEEE     RRRR     IIIII     U    U      SSS 
+  I       MM MM     9     9  E         R   R      I       U    U     S   S
+  I       MM MM     9     9  E         R   R      I       U    U     S    
+  I       M M M     9 9 9 9  EEE       RRRR       I       U    U      SSS 
+  I       M   M          9   E         R R        I       U    U         S
+  I       M   M          9   E         R   R      I       U    U     S   S
+IIIII     M   M      9999    EEEEE     R    R   IIIII      UUU        SSS 
+___________________________________________________________________________
